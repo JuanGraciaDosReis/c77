@@ -19,6 +19,7 @@ function App() {
         <Stack.Screen name="IssLocation" component={IssLocationScreen} />
         <Stack.Screen name="Meteors" component={MeteorScreen} />
       </Stack.Navigator>
+      
     </NavigationContainer>
   );
 }
